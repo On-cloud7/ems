@@ -1,6 +1,0 @@
-.terraform
-*.tfstate
-*.tfstate.backup
-new_key
-new_key.pub
-.terraform.lock.hcl
